@@ -1,0 +1,338 @@
+2020-07-09 11:05:34 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:52 - responsetime is:963
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 11:05:39 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 17:35:51 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 17:35:55 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 17:35:55 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 17:35:55 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 17:35:55 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 17:35:55 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 17:35:55 INFO  EmployeesRestAPI:52 - responsetime is:1049
+2020-07-09 17:35:55 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 17:35:56 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 21:55:11 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:52 - responsetime is:1180
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 21:55:16 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 21:56:05 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:52 - responsetime is:875
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 21:56:10 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 21:56:58 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:52 - responsetime is:1031
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 21:57:03 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 21:59:38 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:52 - responsetime is:883
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 21:59:42 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 22:05:04 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:52 - responsetime is:987
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 22:05:09 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 22:06:23 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:52 - responsetime is:969
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 22:06:28 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 22:07:43 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:52 - responsetime is:965
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 22:07:48 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 22:09:21 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:52 - responsetime is:980
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 22:09:26 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 22:11:53 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:52 - responsetime is:1058
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 22:11:58 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 22:15:26 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 22:15:30 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 22:15:30 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:52 - responsetime is:952
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 22:15:31 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found
+2020-07-09 22:20:35 INFO  EmployeesRestAPI:17 - ********Started TC001_GetAllEmployees *********
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:99 - *********Checking content encoding *************
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:102 - content encoding is:null
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:38 - *********Checking Status Code *************
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:41 - Status code is:404
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:49 - *********Checking response time *************
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:52 - responsetime is:968
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:28 - *********Checking Response Body *************
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:31 - Response body is:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:88 - *********Checking server Type *************
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:91 - server type is:Apache
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:77 - *********Checking content Type *************
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:80 - content type is:text/html; charset=iso-8859-1
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:110 - *********Checking content length *************
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:113 - content length is :315
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:66 - *********Checking status line *************
+2020-07-09 22:20:40 INFO  EmployeesRestAPI:69 - Status line is:HTTP/1.1 404 Not Found

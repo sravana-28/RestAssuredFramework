@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="testNG.xml">
+
+<listeners>
+     <listener class-name="com.employeeapi.utilities.Listeners"/>
+</listeners>
+
+  <test thread-count="5" name="testNg.xml">
+    <classes>
+      <class name="com.employeeapi.testcases.TC001_GetAllEmployees"/>
+    </classes>
+  </test> <!-- testNg.xml -->
+</suite> <!-- testNG.xml -->

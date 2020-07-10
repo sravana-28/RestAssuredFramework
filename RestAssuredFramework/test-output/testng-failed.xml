@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testNG.xml]">
+  <listeners>
+    <listener class-name="com.employeeapi.utilities.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="testNg.xml(failed)">
+    <classes>
+      <class name="com.employeeapi.testcases.TC001_GetAllEmployees">
+        <methods>
+          <include name="checkStatusCode"/>
+          <include name="setup"/>
+          <include name="checkservertype"/>
+          <include name="contentType"/>
+          <include name="checkContentEncoding"/>
+          <include name="statusline"/>
+          <include name="getAllEmployees"/>
+        </methods>
+      </class> <!-- com.employeeapi.testcases.TC001_GetAllEmployees -->
+    </classes>
+  </test> <!-- testNg.xml(failed) -->
+</suite> <!-- Failed suite [testNG.xml] -->
